@@ -19,7 +19,7 @@
 
 Zotero Local MCP 基于 Zotero 10 本地 API（`http://localhost:23119/api/`）构建，提供 Model Context Protocol (MCP) 服务与配套命令行工具 (`zotero-cli`)。
 
-支持 Claude Desktop、Cursor、Oh My Pi (OMP)、Windsurf 等 AI 客户端直接检索、读取、批注与管理本地 Zotero 文献库。附件在本地文件系统直接落盘，不经由 Zotero 官方云端存储转发。
+支持 Claude Desktop、Cursor、Oh My Pi (OMP) 等 AI 客户端直接检索、读取、批注与管理本地 Zotero 文献库。附件在本地文件系统直接落盘，不经由 Zotero 官方云端存储转发。
 
 ---
 
