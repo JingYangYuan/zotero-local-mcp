@@ -1,4 +1,11 @@
-# Zotero Local MCP: 纯本地 Zotero 论文管理与 AI 智能体连接器
+<p align="center">
+  <img src="docs/banner.svg" alt="zotero-local-mcp — 纯本地 Zotero 论文管理与 AI 智能体连接器" width="100%">
+</p>
+
+<p align="center">
+  <strong>纯本地 Zotero 论文管理与 AI 智能体连接器</strong><br>
+  零云端依赖 · 彻底告别 300MB 存储限制 · 原生适配 Claude Desktop / Cursor / OMP / Windsurf
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Zotero-10%2B-CC2936?style=for-the-badge&logo=zotero&logoColor=white" alt="Zotero 10+">
